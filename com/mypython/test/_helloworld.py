@@ -6,7 +6,6 @@ a = 5
 print(a)
 
 
-
 """ Multiline strings can be written
     using three "s, and are often used
     as comments
