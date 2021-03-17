@@ -50,3 +50,4 @@ result3 = bmi_calculator(name3, height_m3, weight_kg3)
 print(result1)
 print( result2)
 print(result3)
+
